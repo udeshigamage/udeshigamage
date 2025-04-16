@@ -35,27 +35,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udeshigamage&show_icons=true&theme=tokyonight&hide=issues"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udeshigamage&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=udeshigamage&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=udeshigamage&theme=gruvbox&no-frame=true&column=7&margin-w=5&row=1" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 <p align="center">
