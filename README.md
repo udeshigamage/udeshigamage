@@ -3,16 +3,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-stack+.NET+Developer;React+%7C+ASP.NET+Core+%7C+AWS+Cloud+Dev;Always+learning+something+new+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Associate+.NET+Developer;React+%7C+ASP.NET+Core+%7C+AWS+Cloud+Dev;Always+learning+something+new+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+  <!-- Replace the below URL with your actual uploaded GIF path -->
+  <img src="https://yourdomain.com/female-dev.gif" alt="Female Developer Animation" width="350" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 👩‍💻 About Me
 
 - 🔭 I’m currently working on:  
   ASP.NET Core APIs, React.js apps, SignalR, AWS S3/EC2  
@@ -30,7 +31,7 @@
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,react,redux,cs,aws,mysql,postgres,html,css,js,ts,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=dotnet,react,redux,cs,aws,mysql,html,css,js,ts,git,github,vscode" />
 </p>
 
 ---
