@@ -2,9 +2,7 @@
   Hi 👋, I'm Udeshi Gamage
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-stack+.NET+Developer;React+%7C+ASP.NET+Core+%7C+AWS+Cloud+Dev;Always+learning+something+new+🚀" alt="Typing SVG" />
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
