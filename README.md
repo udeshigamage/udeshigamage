@@ -12,9 +12,9 @@
 - 🔭 I’m currently working on:  
   ASP.NET Core APIs, React.js apps, SignalR, AWS S3/EC2  
 - 🌱 Currently learning:  
-  Clean Architecture, Microservices, CI/CD  
+  Clean Architecture, Microservices, CI/CD ,Next js 
 - 💬 Ask me about:  
-  C#, .NET, EF Core, LINQ, OOP, React, Redux, SQL, AWS  
+  C#,React,Js,Ts, .NET, EF Core, LINQ, OOP, React, Redux, SQL, AWS  
 - 📫 Reach me:  
   ✉️ udeshigamage92@gmail.com  
   🔗 LinkedIn: https://www.linkedin.com/in/udeshi-gamage-606223267/  
